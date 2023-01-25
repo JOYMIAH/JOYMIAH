@@ -1,8 +1,8 @@
 [![MasterHead](https://i.octopus.com/blog/2021-01/on-the-naming-of-devops-engineers/blog-image-naming-of-devops-engineers_2021.png)](https://joymiah.io)
 <h1 align="center">Hi 👋, I'm Joy Miah</h1>
 <h3 align="center">A passionate DevOps Engineer From Bangladesh.</h3> 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b995d7197188fbc1d9e072f2808bf1eae783444dd45cf152097fc410146426bd/687474703a2f2f73747564696f706978656c2e696e2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f31386134393439666339633830363731373264336239366533303265373039372e676966">
-
+<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b995d7197188fbc1d9e072f2808bf1eae783444dd45cf152097fc410146426bd/687474703a2f2f73747564696f706978656c2e696e2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f31386134393439666339633830363731373264336239366533303265373039372e676966">
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joymiah&label=Profile%20views&color=0e75b6&style=flat" alt="joymiah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joymiah" alt="joymiah" /></a> </p>
